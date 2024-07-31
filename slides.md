@@ -10,7 +10,7 @@ transition: slide-left
 
 <div class="absolute bottom-10">
   <h1>Perfume 從入門到入坑」</h1>
-  <p>香水入門與入坑指南</p>
+  <p>香水一到一百瓶深坑心得</p>
 </div>
 
 
@@ -156,13 +156,13 @@ image: './assets/images/chanel-bleu.jpg'
 
 ### 香水的分類
 
-- **EDC—Eau de Cologne 古龙水（香精占3 - 5%）**
+- **EDC—Eau de Cologne 古龍水（香精占3 - 5%）**
 
 - **EDT—Eau de Toilette 淡香水（香精占5–15%）**
 
-- **EDP—Eau de Parfum 淡香精（香精占15–20%）**
+- **EDP—Eau de Perfume 淡香精（香精占15–20%）**
 
-- **Parfum/Extrait 濃香精（香精佔20–30%）**
+- **Perfume/Extrait 濃香精（香精佔20–30%）**
 
 
 ---
@@ -193,7 +193,7 @@ layout: intro-image-right
 image: './assets/images/guerlain-gichi.jpg'
 ---
 
-> 三調表從1889年guerlain(嬌蘭) Jicky的誕生開始，香水第一次有了金字塔式的三調結構，也就是隨著時間的變化，香水會呈現出：前調、中調、後調三個不同的香味階段。
+> 三調表從1889年 guerlain(嬌蘭) Jicky的誕生開始，香水第一次有了金字塔式的三調結構，也就是隨著時間的變化，香水會呈現出：前調、中調、後調三個不同的香味階段。
 
 ### 香調表不是嚴謹的香料成分表，但它可以讓我們了解到香水的大致面貌。
 
@@ -299,7 +299,7 @@ imageBottomRight: './assets/images/etat-libre-dorange.webp'
 ### 3.3 木質調
 
 - 溫暖沉穩，帶有木材和樹皮的香氣。
-- **著名香水**：湯姆福特 烏木（Tom Ford Oud Wood）、古馳絕對（Gucci Guilty Absolute）
+- **著名香水**：湯姆福特 烏木（Tom Ford Oud Wood）、Gucci 罪愛不羈（Gucci Guilty Absolute）
 
 ### 3.4 東方調
 
@@ -311,10 +311,10 @@ imageBottomRight: './assets/images/etat-libre-dorange.webp'
 - 甜美多汁，帶有各種水果的香氣。
 - **著名香水**：貝蒂潘尼（Britney Spears Fantasy）、迪奧 粉紅魅惑（Dior Addict 2）
 
-### 3.6 綠香調
+### 3.6 綠葉調
 
 - 清新自然，帶有草本和葉子的香氣。
-- **著名香水**：愛馬仕 綠橘香水（Hermès Un Jardin Sur Le Nil）、伊麗莎白雅頓 綠茶（Elizabeth Arden Green Tea）
+- **著名香水**：愛馬仕 綠橘香水、伊麗莎白雅頓 綠茶（Elizabeth Arden Green Tea）
 
 
 ---
@@ -385,6 +385,8 @@ layout: two-cols-header
 - [selfridges](https://www.selfridges.com/TW/en/)
 
 - 淘寶/蝦皮
+
+- 機場免稅
 
 - 路邊特賣會
 
